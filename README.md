@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/460955986581127199/996430484059979786/unknown.png" alt="exemplo imagem">
+<img src="https://media.discordapp.net/attachments/460955986581127199/1021199503258300467/unknown.png?width=1240&height=676" alt="exemplo imagem">
 
 # Calculadora Simples
 
